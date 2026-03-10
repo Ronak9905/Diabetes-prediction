@@ -83,7 +83,6 @@ Reasons for selection:
 ```bash
 # Clone the repository
 git clone https://github.com/Ronak9905/Diabetes-prediction.git
-cd diabetes_prediction
-
-# Install dependencies
+cd Diabetes-prediction
 pip install -r requirements.txt
+streamlit run app.py
